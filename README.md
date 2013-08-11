@@ -1,7 +1,7 @@
 # backbone-relational-rails
 
 backbone-relational-rails wraps the [Backbone-relational](https://github.com/PaulUithol/Backbone-relational) library in a rails engine for simple
-use with the asset pipeline provided by rails 3.1. The gem includes the development (non-minified)
+use with the asset pipeline first provided by rails 3.1. The gem includes the development (non-minified)
 source for ease of exploration. The asset pipeline will minify in production.
 
 Backbone-relational provides one-to-one, one-to-many and many-to-one relations between models for [Backbone](http://backbonejs.org/).
